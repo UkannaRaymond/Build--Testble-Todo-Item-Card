@@ -9,7 +9,7 @@ A self-contained, interactive task card component built with vanilla HTML, CSS, 
 ### Option 1 — Clone the repo
 
 ```bash
-git clone https://github.com/your-username/todo-item-card.git
+git clone [https://github.com/UkannaRaymond/todo-item-card.git](https://github.com/UkannaRaymond/Build--Testble-Todo-Item-Card.git)
 cd todo-item-card
 ```
 
